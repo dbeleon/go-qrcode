@@ -1,4 +1,4 @@
-module github.com/yeqown/go-qrcode/writer/compressed
+module github.com/yeqown/go-qrcode/writer/compressed/v2
 
 go 1.19
 
